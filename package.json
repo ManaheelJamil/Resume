@@ -10,7 +10,7 @@
     "export": "npm run build && next export -o _static"
   },
   "dependencies": {
-    "eslint-config-next": "13.0.3",
+    "eslint-config-next": "13.2.4",
     "framer-motion": "^7.10.3",
     "next": "13.0.3",
     "react": "18.2.0",
